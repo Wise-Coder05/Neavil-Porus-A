@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/-PANDAS-150458?logo=pandas&logoColor=fff">
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KokilaSivakumar&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Wise-Coder-05&count_private=true&show_icons=true&theme=radical)
